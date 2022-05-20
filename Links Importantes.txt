@@ -1,0 +1,8 @@
+Link para baixar o git:
+https://git-scm.com/
+
+Link para o site do github:
+https://github.com/
+
+Link para o curso DIO:
+https://web.dio.me/home
